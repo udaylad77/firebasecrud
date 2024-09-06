@@ -1,0 +1,6 @@
+1)  Remove blue lines from code editor for that move to the file name 
+    "analysis_options.yaml" and add below line of code  
+
+    rules:
+        prefer_const_constructors: false
+        prefer_const_literals_to_create_immutables: false
